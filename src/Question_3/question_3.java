@@ -9,6 +9,6 @@ public class question_3 {
                     count++;                                 //метод charAt() — возвратит символ, расположенный по указанному индексу (i) строки.
                 }
             }
-            System.out.println("Digits per line: " + count);
+            System.out.println("Digits in line: " + count);
         }
     }
